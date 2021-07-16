@@ -1,5 +1,5 @@
-#Windows家庭版Docker下载
-##一、环境要求
+# Windows家庭版Docker下载
+## 一、环境要求
 
 ​        Windows 版 Docker 的环境需要启用 Windows 操作系统中的 Hyper-V 和容器特性，而Windows 10家庭版并没有这两个选项。
 
@@ -36,7 +36,7 @@
 
 ​             5.打开 [Microsoft Store](https://aka.ms/wslstore)，并选择你偏好的 Linux 分发版并直接获取，如我选择 Ubuntu                                          18.04LTS，首次启动Linux分发版需要为新的 Linux 分发版创建用户帐户和密码。
 
-##二、 下载Docker
+## 二、 下载Docker
 
 ​         访问 Docker 的下载（https://www.docker.com/products/docker-desktop）页面，并单击其中的 Download for Windows 按钮进行下载。
 
